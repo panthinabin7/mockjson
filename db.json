@@ -1,6 +1,17 @@
 { "categories" : [ { "name" : "Movies",
         "videos" : [ 
-                   
+		{ "description" : "The Smoking Tire meets up with Chris and Jorge from CarsForAGrand.com to see just how far $1,000 can go when looking for a car.The Smoking Tire meets up with Chris and Jorge from CarsForAGrand.com to see just how far $1,000 can go when looking for a car.",
+              "sources" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4" ],
+              "subtitle" : "By Garage419",
+              "thumb" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/WhatCarCanYouGetForAGrand.jpg",
+              "title" : "What care can you get for a grand?"
+		},
+                { "description" : "Introducing Chromecast. The easiest way to enjoy online video and music on your TV. For $35.  Find out more at google.com/chromecast.",
+              "sources" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4" ],
+              "subtitle" : "By Google",
+              "thumb" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerFun.jpg",
+              "title" : "For Bigger Fun"
+            },    
             { "description" : "The first Blender Open Movie from 2006",
               "sources" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" ],
               "subtitle" : "By Blender Foundation",
@@ -66,11 +77,7 @@
               "subtitle" : "By Garage419",
               "thumb" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/WeAreGoingOnBullrun.jpg",
               "title" : "We Are Going On Bullrun"
-            },
-			{ "description" : "The Smoking Tire meets up with Chris and Jorge from CarsForAGrand.com to see just how far $1,000 can go when looking for a car.The Smoking Tire meets up with Chris and Jorge from CarsForAGrand.com to see just how far $1,000 can go when looking for a car.",
-              "sources" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4" ],
-              "subtitle" : "By Garage419",
-              "thumb" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/WhatCarCanYouGetForAGrand.jpg",
-              "title" : "What care can you get for a grand?"
             }
+			
+            
     ]}]};
